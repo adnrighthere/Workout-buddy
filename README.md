@@ -23,8 +23,8 @@ Contributions and feedback are welcome! Whether you're a fitness enthusiast or a
 
 ## Screenshots
 
-![App Screenshots](screenshot.jpg)
-![More Screenshots](another-screenshot.jpg)
+![App Screenshots](Screenshot 2023-08-14 215709.png)
+
 
 
 ## License
