@@ -23,7 +23,7 @@ Contributions and feedback are welcome! Whether you're a fitness enthusiast or a
 
 ## Screenshots
 
-![App Screenshots](Screenshot 2023-08-14 215709.png)
+![App Screenshots](demo.png)
 
 
 
